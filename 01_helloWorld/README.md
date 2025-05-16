@@ -34,7 +34,7 @@ describe('Hello World', function() {
 ### 🧪 Como correr os testes?
 Abre o terminal na pasta deste exercício e escreve:
 ```bash
-npm test helloWord.spec.js
+npm test helloWorld.spec.js
 ```
 O teste vai falhar de propósito no início — isso é normal!
 A mensagem que aparecer no terminal vai dizer o que está errado.
